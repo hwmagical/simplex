@@ -265,6 +265,6 @@ void UDZ(double pure[][MAXCol], int iCon, int iVar, int Origin)
 	}
 }
 
-
+//hahahahaha
 
 
