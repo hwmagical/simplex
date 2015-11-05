@@ -5,7 +5,7 @@
 using namespace std;
 
 
-
+///test the it
 
 //Ñ°ÕÒÐý×ªÁÐ£»
 int maxCol(double array[][MAXCol], int iCon, int iVal)
